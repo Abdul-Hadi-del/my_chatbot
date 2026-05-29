@@ -1,6 +1,6 @@
 from groq import Groq
 
-client = Groq(api_key="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")
+client = Groq(api_key="YOUR_API_KEY_HERE")
 
 print("Chatbot ready! 'quit' likho band karne ke liye")
 
